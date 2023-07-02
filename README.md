@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there I am kurakke. 
 
-<!--
-**kurakke/kurakke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Skills
+### FrontEnd
+- Next.js
+- React
+- TailwindCSS
+- Emotion
+### BackEnd
+- Node.js
+- Ruby on Rails
+### Infrastructure
+- AWS EC2
+- AWS Cognito
+- AWS RDS
+- AWS Route53
+- fly.io
+- Heroku
+- PlanetScale
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
