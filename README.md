@@ -20,3 +20,5 @@ I am web engineer.
 - PlanetScale
 ### Others
 - Docker
+- Postgresql
+- Mysql
