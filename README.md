@@ -23,6 +23,14 @@ I am web engineer.
 - Postgresql
 - Mysql
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurakke&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kurakke&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kurakke&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kurakke&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kurakke&theme=github&utcOffset=9)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=kurakke&theme=github)
+
 ![](https://komarev.com/ghpvc/?username=kurakke&color=brightgreen&label=GithubProfileViews)
 
 [![Likes](https://badgen.org/img/zenn/kurakke/likes?style=plastic)](https://zenn.dev/kurakke)
