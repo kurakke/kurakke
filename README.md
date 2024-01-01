@@ -1,20 +1,28 @@
-## Hi there I am kurakke.
-I am web engineer.
+## 👋Hi there I am kurakke.
+I am web engineer.  
+I am currently attending the National Institute of Technology, Kitakyushu College.  
+If you would like to get in touch, please contact me at this email address: kurakke0904@gmail.com.
 
 ## My Skills
 ### FrontEnd
 - Next.js
 - React
 - TailwindCSS
+- NextUI
 - Emotion
 ### BackEnd
 - Node.js
+- Express
+- NestJS
 - Ruby on Rails
+- FastAPI
 ### Infrastructure
 - AWS EC2
 - AWS Cognito
 - AWS RDS
 - AWS Route53
+- AWS ACM
+- AWS IAM
 - fly.io
 - Heroku
 - PlanetScale
@@ -22,7 +30,8 @@ I am web engineer.
 - Docker
 - Postgresql
 - Mysql
-
+- GithubActions
+### Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurakke&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kurakke&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kurakke&theme=github)
