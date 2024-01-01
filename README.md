@@ -23,6 +23,9 @@ I am web engineer.
 - Postgresql
 - Mysql
 
+
+![](https://komarev.com/ghpvc/?username=kurakke&color=brightgreen&label=GithubProfileViews)
+
 [![Likes](https://badgen.org/img/zenn/kurakke/likes?style=plastic)](https://zenn.dev/kurakke)
 [![Followers](https://badgen.org/img/zenn/kurakke/followers?style=plastic)](https://zenn.dev/kurakke)
 [![Articles](https://badgen.org/img/zenn/kurakke/articles?style=plastic)](https://zenn.dev/kurakke)
