@@ -22,3 +22,7 @@ I am web engineer.
 - Docker
 - Postgresql
 - Mysql
+
+[![Likes](https://badgen.org/img/zenn/kurakke/likes?style=plastic)](https://zenn.dev/kurakke)
+[![Followers](https://badgen.org/img/zenn/kurakke/followers?style=plastic)](https://zenn.dev/kurakke)
+[![Articles](https://badgen.org/img/zenn/kurakke/articles?style=plastic)](https://zenn.dev/kurakke)
