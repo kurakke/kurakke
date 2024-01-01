@@ -1,4 +1,4 @@
-## Hi there I am kurakke. 
+## Hi there I am kurakke.
 I am web engineer.
 
 ## My Skills
@@ -22,7 +22,6 @@ I am web engineer.
 - Docker
 - Postgresql
 - Mysql
-
 
 ![](https://komarev.com/ghpvc/?username=kurakke&color=brightgreen&label=GithubProfileViews)
 
