@@ -1,6 +1,6 @@
 ## 👋Hi there I am kurakke.
-I am web engineer.  
-I am currently attending the National Institute of Technology, Kitakyushu College.  
+I am web engineer.
+I am currently attending the National Institute of Technology, Kitakyushu College.
 If you would like to get in touch, please contact me at this email address: kurakke0904@gmail.com.
 
 ## My Skills
