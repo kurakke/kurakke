@@ -1,7 +1,7 @@
 ## 👋Hi there I am kurakke.
-I am web engineer.
-I am currently attending the National Institute of Technology, Kitakyushu College.
-If you would like to get in touch, please contact me at this email address: kurakke0904@gmail.com.
+- A student engineer who enjoys front-end and back-end development.
+- I am currently attending the National Institute of Technology, Kitakyushu College.
+- If you would like to get in touch, please contact me at this email address: kurakke0904@gmail.com.
 
 ## My Skills
 ### FrontEnd
@@ -31,6 +31,8 @@ If you would like to get in touch, please contact me at this email address: kura
 - Postgresql
 - Mysql
 - GithubActions
+### Contributing
+- [YamadaUI](https://github.com/yamada-ui/yamada-ui)
 ### Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurakke&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kurakke&theme=github)
