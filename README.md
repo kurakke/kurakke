@@ -1,6 +1,5 @@
 ## 👋Hi there I am kurakke.
-- A student engineer who enjoys front-end and back-end development.
-- I am currently attending the National Institute of Technology, Kitakyushu College.
+- A engineer who enjoys front-end and back-end development.
 - If you would like to get in touch, please contact me at this email address: kurakke0904@gmail.com.
 
 ## My Skills
